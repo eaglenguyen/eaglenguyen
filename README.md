@@ -19,6 +19,7 @@ Discord: [eagle617](https://discord.com/users/182185100983795713)
 
 <b>My GitHub Stats</b>
 
+<a href="http://www.github.com/eaglenguyen"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shreekrishnalamichhane&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eaglenguyen&theme=zenburn)
@@ -28,4 +29,3 @@ Discord: [eagle617](https://discord.com/users/182185100983795713)
 ![Commits (UTC+7.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eaglenguyen&theme=zenburn&utcOffset=5.45)
 
 
-<a href="http://www.github.com/eaglenguyen"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shreekrishnalamichhane&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
